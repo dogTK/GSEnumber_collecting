@@ -1,4 +1,4 @@
-# GSEnumber_scraping
+# GSEnumber_collecting
 AOEの公開APIを用いて、GSE番号を簡単に調べることができるソフトウェアです。
 
 # Usage
